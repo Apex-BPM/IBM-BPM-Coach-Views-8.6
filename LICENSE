@@ -1,0 +1,85 @@
+1. Parties; Effective Date. This Software License Agreement (“Agreement”) is effective Thursday, September 11th, 2014 (the “Effective Date”) between Apex Process Consultants LLC, a Michigan limited liability company (“Licensor”), having a place of business located at 26555 Evergreen Rd, Suite 1205, Southfield, Michigan, 48076, and the undersigned entity (“Licensee”).
+
+2. Purpose of Agreement. Licensor is the owner of certain computer software programs known as Apex Coach Views (the “Software”).  The Software and its specifications and functions are more fully described on Licensor’s website.  Licensee is an authorized IBM Technical Seller or an IBM customer that has been provided the Software from Licensor or an authorized IBM Technical Seller. This Agreement sets forth the terms and conditions under which Licensor licenses the Software to Licensee.
+
+3. Grant of License.
+
+3.1 Subject to Licensee’s compliance with the terms of this Agreement, Licensor grants Licensee a nonexclusive, worldwide, license to:
+
+(a) promote, market and demonstrate use of the Software and applicable user documentation (“Documentation”) to IBM customers and potential IBM customers (“IBM Customers”) in connection with the use of IBM products; and
+
+(b) sublicense the Software and Documentation to IBM Customers solely for use with IBM products, provided that such sublicense is made pursuant to a written agreement which contains terms which are no less restrictive then those set forth in this Agreement, and provided that such license does not include the right to further sublicense the Software to other IBM Customers or third parties.
+
+3.2 All rights not expressly granted to Licensee in this Agreement are reserved by Licensor, and Licensee may not use the Software or Documentation in any manner not expressly authorized by this Agreement.
+
+3.3 Except as may be otherwise set forth herein, Licensee shall not:  remove or destroy any proprietary rights marks or legends on or in the Software or Documentation and on authorized copies; modify the Software or Documentation; transfer, distribute, assign, sublicense, rent, lease, export or sell the Software; decompile, disassemble, or reverse engineer the Software; create derivative works; or make copies of the Software or Documentation other than for archival and backup purposes.
+
+3.4 Licensee acknowledges and agrees that the Software is licensed to operate only on IBM BPM operating environments (“Environment”) and computer software programs (“Third Party Software”).  Licensee is solely responsible for the acquisition, use and maintenance of all components of the Environment and Third Party Software, and all associated costs and expenses.
+
+3.5 Licensee acknowledges and agrees that the Software may contain “Cookies” and consents to the use of such Cookies in connection with the use and operation of the Software. “Cookies” are small text files that are placed on a user’s hard drive or Internet browser to enable the user to interact with a website, and provide information about the user’s activity on the website back to the site operator or Licensor.
+
+4. Delivery; Installation.  Licensor will provide the Software and Documentation to Licensee, and Licensee is responsible for its download and installation.
+
+5. Consideration.  In consideration of the foregoing license grants, including the payment of any fees which may be due, Licensee agrees that it shall: (a) furnish Licensor with the name, address, telephone number and email address for any IBM Customer that Licensee markets or demonstrates the Software and Documentation to pursuant to paragraph 3.1(a), and (b) require each sublicensee under paragraph 3.1(b) to create an Apex account by submitting their username, contract name, title, and email address on a registration page contained on the IBM product.
+
+6. Warranty Disclaimer.
+
+6.1 Licensor warrants the Software and Documentation is being provided “AS IS,” and makes no separate warranty as to its performance.  Further, Licensor does not warrant that the functions contained in the Software will meet Licensee’s specific requirements, the requirements of Licensee’s particular industry, will be error-free or operate without interruption, or will operate in compliance with applicable documentation.
+
+6.2 LICENSOR EXPRESSLY DISCLAIMS, ALL WARRANTIES RELATING TO THE SOFTWARE AND DOCUMENTATION, WHETHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+7. Technical Support Services.
+
+7.1 The license grants set forth in this Agreement do not include maintenance and support services for the Software.  Licensor may, in its sole discretion, provide updates or new releases of the Software to Licensee, but is under no obligation to do so.  In the event Licensor furnishes Licensee with an update or new release of the Software, Licensee shall have ten (10) days to implement such update or new release, and the license grant for the prior version shall immediately terminate.  Licensee may contract maintenance and support services from Licensor pursuant to the terms of a separate written agreement between the parties.
+
+7.2 Licensee remains responsible for (a) any data in the content of any database Licensee makes available to Licensor, (b) the selection and implementation of procedures and controls regarding access, security, encryption, use, and transmission of data (including any personal identifiable data), and (c) backup and recovery of any database and any stored data.  Licensee will not send or provide Licensor access to any personally identifiable information, whether in data or any other form, and will be responsible for reasonable costs and other amounts that Licensor may incur relating to any such information mistakenly provided to Licensor or the loss or disclosure of such information by Licensor, including those arising out of any third party claims.
+
+8. Confidentiality.
+
+8.1 During the term of this Agreement, Licensee acknowledges and agrees it may have access to certain information that is considered confidential or proprietary by Licensor.  This information may include, but is not limited to, the Software, Documentation, technical know-how, technical specifications, software object code and source code, protocols, processes, strategic business plans, results of testing, systems, financial information, product information, methods of operation, customer information, supplier information and compilations of data (the “Confidential Information”).
+
+8.2 Licensee acknowledges and agrees that it shall only use the Confidential Information for the purposes of this Agreement, and that it shall maintain the confidentiality of Licensor’s Confidential Information in the same manner in which it protects its own confidential information of like kind, but in no event shall it take less than reasonable precautions to prevent the unauthorized disclosure or use of Confidential Information.
+
+8.3 Licensee is permitted to disclose the Licensor’s Confidential Information to its employees, contractors and IBM Customers on a need-to-know basis only, provided that such employees, contractors and/or third parties have written or legal confidentiality obligations to Licensee that are no less stringent than those contained in this Agreement.
+
+8.4 The confidentiality provisions of this Agreement do not apply to information:  that is or becomes generally available or known to the public through no act or omission of the receiving party; was received lawfully from a third party through no breach of any obligation of confidentiality owed to the disclosing party; or created by a party independently of its access to or use of the Confidential Information.
+
+8.5 Upon termination of this Agreement, Licensee shall return the Confidential Information and shall not use Licensor’s Confidential Information for its own, or any third party’s benefit. The provisions of this paragraph shall survive termination of this Agreement for so long as the Confidential Information remains confidential.
+
+9. Ownership.  Licensor is the owner or licensee of all intellectual property rights in and to the Software and Documentation, including copyrights, trade secrets, trademarks, patents, and know-how. Licensee acknowledges the foregoing and agrees to implement software protection measures designed to prevent unauthorized use and reproduction of the Software or Documentation, including, but not limited to, keeping the Software and Documentation in a secure place, under reasonable access and use restrictions not less strict than those applied by Licensee with respect to its own confidential information.
+
+10. Indemnification.  Licensee shall defend, at its sole expense, any claim against Licensor arising out of Licensee’s (a) use of the Software and/or breach of this Agreement; and/or (b) any assertion that Licensee made false, misleading and/or otherwise deceptive statements with regard to Licensor and/or the specifications, features or capabilities of the Software; and shall indemnify and hold Licensor harmless from and against any and all damages, fines, penalties, costs, expenses and/or fees (including reasonable attorneys’ fees) awarded or assessed against Licensor in association with the above.
+
+11. Taxes.  If any authority imposes on the Software or Licensee’s use of the Software a duty, tax, levy or fee, excluding those based on Licensor’s income, then Licensee agrees to pay that amount.  Licensee is responsible for any personal property taxes for the Software from the date that Licensee obtains it. If any authority imposes a customs duty, tax, levy or fee for the import into or the export, transfer, access or use of the Software outside the country in which the original Licensee was granted the license, then Licensee agrees that it is responsible for, and will pay, any amount imposed.
+
+12. Term and Termination.
+
+12.1 This Agreement shall commence on the Effective Date and continue until such time as Licensee ceases to use the Software, or Licensee breaches any of its obligations under this Agreement.
+
+12.2 Upon termination of this Agreement, Licensee shall immediately: (a) discontinue all use of the Software and Documentation, (b) de-install and/or remove any and all copies of the Software, whether authorized or unauthorized, from any computer or server upon which the Software has been installed by or on behalf of Licensee; (c) return all copies of the Software, Documentation and all other materials to Licensor; and (d) certify its compliance with the above.
+
+12.3 All provisions of this Agreement regarding ownership, confidentiality, and limitations of liability shall survive any termination of this Agreement.
+
+13. Limitation of Liability.
+
+13.1 Except as in association with: (a) a party’s indemnification obligations under this Agreement; (b) a party’s violation of the other party’s intellectual property rights; or (c) a party’s breach of its confidentiality obligations under this Agreement; in no event shall either party be liable to the other party, regardless of the form of action or theory of recovery, in association with this Agreement or the Software for: (1) any indirect, special, exemplary, consequential, incidental or punitive damages, even if that party has been advised of the possibility of such damages; (2) lost profits, lost revenue, lost business expectancy, benefit of the bargain damages, business interruption losses or loss of data; or (3) direct damages in an amount in excess of all of the fees paid to Licensor under this Agreement.
+
+13.2 Except for claims arising out of a party’s indemnification obligations, any claim arising out of, or related to, this Agreement must be initiated within one (1) year of the date the party knew, or reasonably should have known, of the existence of such claim against the other party.
+
+14. General.
+
+14.1 This Agreement and all exhibits or schedules, and all amendments thereto contain the entire understanding of the parties with respect to the subject matter addressed herein and supersede, replace and merge all prior understandings, promises, representations and agreements, whether written or oral, relating thereto. This Agreement may not be modified except by a writing signed by both parties. No terms or conditions of either party’s invoice, purchase order or other administrative document shall modify the terms and conditions of this Agreement, regardless of the other party’s failure to object to such form. The remedies accorded Licensor under this Agreement are cumulative and in addition to those provided by law.
+
+14.2 Any waiver of a party’s right or remedy related to this Agreement must be in writing, signed by that party to be effective. No waiver shall be implied from a failure of either party to exercise a right or remedy. In addition, no waiver of a party’s right or remedy will effect the other provisions of this Agreement
+
+14.3 This Agreement shall be governed by the laws of the State of Michigan (exclusive of its choice of law rules), and the federal laws of the U.S.
+
+14.4 If any provision of this Agreement is held by a court of competent jurisdiction to be invalid or unenforceable, such provision will be enforced to the fullest extent that it is valid and enforceable under applicable law.  All other provisions of this Agreement shall remain in full force and effect.
+
+14.5 All notices must be in writing and sent either by hand delivery; messenger; certified mail, return receipt requested; overnight courier; or by facsimile or by e-mail (with a confirming copy) and shall be effective when received by such party at the address listed herein or other address provided in writing.
+
+14.6 Except as otherwise set forth herein, Licensee may not assign or sublicense this Agreement, in whole or in part, without Licensor’s prior express written consent, which shall not be unreasonably withheld or delayed.  As a condition to Licensor’s consent, any proposed assignee must expressly agree to the terms of this Agreement.  Any attempted assignment or sublicense without such written consent shall be void. A spinoff, sale of assets, merger, stock purchase, acquisition or other transactions that involves a change of control of Licensee shall be deemed to be an assignment hereunder.  The Licensee shall notify Licensor of any such transaction within five (5) business days after its occurrence, at which time any such assignee must (with Licensor’s consent) immediately execute a then-current version of Licensor’s License Agreement; otherwise, this Agreement and all rights and licenses hereunder shall terminate.  Subject to the foregoing, this Agreement will be binding upon and will inure to the benefit of the parties and their respective successors and assigns.
+
+14.7 The parties agree to exclusive jurisdiction and venue of the courts in Oakland County, Michigan, in all disputes arising out of, or relating to, this Agreement and further agree that, in any such action, they will submit to depositions and other discovery in Oakland County, Michigan, at their own cost and expense.  Any lawsuit arising directly or indirectly out of this Agreement will be litigated in the Circuit Court for Oakland County, Michigan, or, if original jurisdiction can be established, in the United States District Court for the Eastern District of Michigan.
+
+14.8 If either party breaches this Agreement, then the other party will be irreparably injured.  Therefore, if one party breaches or threatens to breach this Agreement, then the other party has the right to specific performance or injunctive relief, including money damages and any other appropriate relief.
